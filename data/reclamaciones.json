@@ -1,0 +1,64 @@
+{
+    "reclamaciones": [
+        {
+            "id": "REC-001",
+            "titulo": "Limpieza incompleta de habitación",
+            "fecha": "2026-04-28",
+            "habitacion": "205",
+            "prioridad": "Alta",
+            "huesped": "Juan Pérez López",
+            "tipo": "Servicio",
+            "descripcion": "Dejaron una toalla no limpiada adecuadamente. Toallas no fueron cambiadas y el baño tenía restos de jabón.",
+            "estado": "pendiente",
+            "detalle": "El huésped reporta que la limpieza no se completó antes de su ingreso. Se debe coordinar con housekeeping y registrar la solución aplicada."
+        },
+        {
+            "id": "REC-002",
+            "titulo": "Aire acondicionado no funciona",
+            "fecha": "2026-04-29",
+            "habitacion": "301",
+            "prioridad": "Media",
+            "huesped": "María García",
+            "tipo": "Mantenimiento",
+            "descripcion": "El aire acondicionado de la habitación 301 no enciende. Hace mucho calor y no pudimos dormir bien.",
+            "estado": "en_proceso",
+            "detalle": "Mantenimiento debe revisar conexiones, control remoto y unidad interna. Informar al huésped el tiempo estimado de atención."
+        },
+        {
+            "id": "REC-003",
+            "titulo": "Demora en atención de recepción",
+            "fecha": "2026-05-02",
+            "habitacion": "102",
+            "prioridad": "Media",
+            "huesped": "Carlos López Martínez",
+            "tipo": "Atención",
+            "descripcion": "El check-in tardó más de lo esperado y no se informó claramente el motivo de la espera.",
+            "estado": "pendiente",
+            "detalle": "Revisar disponibilidad del personal en recepción durante horas punta y brindar respuesta formal al huésped."
+        },
+        {
+            "id": "REC-004",
+            "titulo": "Solicitud de cambio de toallas",
+            "fecha": "2026-05-04",
+            "habitacion": "208",
+            "prioridad": "Baja",
+            "huesped": "Ana Torres Sánchez",
+            "tipo": "Habitación",
+            "descripcion": "El huésped solicitó cambio de toallas adicionales durante la tarde.",
+            "estado": "en_proceso",
+            "detalle": "Housekeeping confirmó la solicitud y debe cerrar la atención al entregar los artículos solicitados."
+        },
+        {
+            "id": "REC-005",
+            "titulo": "Ruido durante la noche",
+            "fecha": "2026-05-06",
+            "habitacion": "304",
+            "prioridad": "Alta",
+            "huesped": "Pedro Ramírez Castro",
+            "tipo": "Convivencia",
+            "descripcion": "Se reportó ruido de otros huéspedes después de medianoche.",
+            "estado": "atendida",
+            "detalle": "Recepción intervino y dejó constancia del incidente. Reclamo cerrado con disculpas al huésped afectado."
+        }
+    ]
+}

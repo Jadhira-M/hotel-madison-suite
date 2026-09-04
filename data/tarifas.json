@@ -1,0 +1,55 @@
+{
+    "tarifas": [
+        {
+            "id": "simple",
+            "habitacion": "Habitación Simple",
+            "base": 176,
+            "fin_semana": 176,
+            "feriados": 176
+        },
+        {
+            "id": "doble",
+            "habitacion": "Habitación Doble",
+            "base": 197,
+            "fin_semana": 197,
+            "feriados": 197
+        },
+        {
+            "id": "matrimonial",
+            "habitacion": "Habitación Matrimonial",
+            "base": 387,
+            "fin_semana": 387,
+            "feriados": 387
+        },
+        {
+            "id": "hidromasaje",
+            "habitacion": "Suite con Hidromasaje",
+            "base": 387,
+            "fin_semana": 387,
+            "feriados": 387
+        }
+    ],
+    "temporadas": [
+        {
+            "id": 1,
+            "nombre": "Temporada Alta - Verano",
+            "fecha_inicio": "2026-12-15",
+            "fecha_fin": "2027-03-15",
+            "multiplicador": 1.3
+        },
+        {
+            "id": 2,
+            "nombre": "Fiestas Patrias",
+            "fecha_inicio": "2026-07-26",
+            "fecha_fin": "2026-07-31",
+            "multiplicador": 1.5
+        },
+        {
+            "id": 3,
+            "nombre": "Año Nuevo",
+            "fecha_inicio": "2026-12-28",
+            "fecha_fin": "2027-01-03",
+            "multiplicador": 1.6
+        }
+    ]
+}

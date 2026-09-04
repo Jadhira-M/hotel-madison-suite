@@ -1,0 +1,137 @@
+{
+    "clientes": [
+        {
+            "id": "CLI-001",
+            "nombre": "Juan Pérez López",
+            "email": "juan.perez@email.com",
+            "telefono": "+51 999 123 450",
+            "ciudad": "Tacna",
+            "historial": [
+                {
+                    "fecha_ingreso": "2026-04-12",
+                    "fecha_salida": "2026-04-15",
+                    "habitacion": "Habitación Doble",
+                    "estado": "Confirmada",
+                    "noches": 3,
+                    "precio_noche": 197
+                },
+                {
+                    "fecha_ingreso": "2026-05-01",
+                    "fecha_salida": "2026-05-04",
+                    "habitacion": "Suite con Hidromasaje",
+                    "estado": "Confirmada",
+                    "noches": 3,
+                    "precio_noche": 387
+                },
+                {
+                    "fecha_ingreso": "2026-06-10",
+                    "fecha_salida": "2026-06-13",
+                    "habitacion": "Habitación Matrimonial",
+                    "estado": "Confirmada",
+                    "noches": 3,
+                    "precio_noche": 387
+                }
+            ]
+        },
+        {
+            "id": "CLI-002",
+            "nombre": "María García Rodríguez",
+            "email": "maria.garcia@email.com",
+            "telefono": "+51 999 123 451",
+            "ciudad": "Arequipa",
+            "historial": [
+                {
+                    "fecha_ingreso": "2026-03-08",
+                    "fecha_salida": "2026-03-10",
+                    "habitacion": "Habitación Doble",
+                    "estado": "Confirmada",
+                    "noches": 2,
+                    "precio_noche": 197
+                },
+                {
+                    "fecha_ingreso": "2026-05-18",
+                    "fecha_salida": "2026-05-20",
+                    "habitacion": "Habitación Simple",
+                    "estado": "Confirmada",
+                    "noches": 2,
+                    "precio_noche": 176
+                }
+            ]
+        },
+        {
+            "id": "CLI-003",
+            "nombre": "Carlos López Martínez",
+            "email": "carlos.lopez@email.com",
+            "telefono": "+51 999 123 452",
+            "ciudad": "Lima",
+            "historial": [
+                {
+                    "fecha_ingreso": "2026-01-20",
+                    "fecha_salida": "2026-01-24",
+                    "habitacion": "Suite con Hidromasaje",
+                    "estado": "Confirmada",
+                    "noches": 4,
+                    "precio_noche": 387
+                },
+                {
+                    "fecha_ingreso": "2026-04-04",
+                    "fecha_salida": "2026-04-07",
+                    "habitacion": "Suite con Hidromasaje",
+                    "estado": "Confirmada",
+                    "noches": 3,
+                    "precio_noche": 387
+                },
+                {
+                    "fecha_ingreso": "2026-06-21",
+                    "fecha_salida": "2026-06-24",
+                    "habitacion": "Habitación Matrimonial",
+                    "estado": "Confirmada",
+                    "noches": 3,
+                    "precio_noche": 387
+                }
+            ]
+        },
+        {
+            "id": "CLI-004",
+            "nombre": "Ana Torres Sánchez",
+            "email": "ana.torres@email.com",
+            "telefono": "+51 999 123 453",
+            "ciudad": "Tacna",
+            "historial": [
+                {
+                    "fecha_ingreso": "2026-02-10",
+                    "fecha_salida": "2026-02-12",
+                    "habitacion": "Habitación Simple",
+                    "estado": "Confirmada",
+                    "noches": 2,
+                    "precio_noche": 176
+                }
+            ]
+        },
+        {
+            "id": "CLI-005",
+            "nombre": "Pedro Ramírez Castro",
+            "email": "pedro.ramirez@email.com",
+            "telefono": "+51 999 123 454",
+            "ciudad": "Moquegua",
+            "historial": [
+                {
+                    "fecha_ingreso": "2026-03-25",
+                    "fecha_salida": "2026-03-28",
+                    "habitacion": "Habitación Matrimonial",
+                    "estado": "Confirmada",
+                    "noches": 3,
+                    "precio_noche": 387
+                },
+                {
+                    "fecha_ingreso": "2026-05-22",
+                    "fecha_salida": "2026-05-25",
+                    "habitacion": "Habitación Doble",
+                    "estado": "Pendiente",
+                    "noches": 3,
+                    "precio_noche": 197
+                }
+            ]
+        }
+    ]
+}

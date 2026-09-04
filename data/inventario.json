@@ -1,0 +1,148 @@
+{
+    "servicios": [
+        {
+            "icono": "wifi",
+            "nombre": "WiFi Gratis",
+            "descripcion": "Internet de alta velocidad en todo el hotel",
+            "categoria": "Tecnología",
+            "estado": "Activo"
+        },
+        {
+            "icono": "car-front",
+            "nombre": "Cochera Privada",
+            "descripcion": "Capacidad para 14 vehículos",
+            "categoria": "Estacionamiento",
+            "estado": "Activo"
+        },
+        {
+            "icono": "cup-hot",
+            "nombre": "Desayuno Buffet",
+            "descripcion": "Buffet continental incluido",
+            "categoria": "Alimentación",
+            "estado": "Activo"
+        },
+        {
+            "icono": "egg-fried",
+            "nombre": "Restaurante",
+            "descripcion": "Servicio de restaurante y bar",
+            "categoria": "Alimentación",
+            "estado": "Activo"
+        },
+        {
+            "icono": "stars",
+            "nombre": "Suite Hidromasaje",
+            "descripcion": "Tinas de hidromasaje en suites premium",
+            "categoria": "Habitaciones",
+            "estado": "Activo"
+        },
+        {
+            "icono": "droplet",
+            "nombre": "Lavandería",
+            "descripcion": "Servicio de lavado y planchado",
+            "categoria": "Servicios",
+            "estado": "Activo"
+        },
+        {
+            "icono": "wind",
+            "nombre": "Aire Acondicionado",
+            "descripcion": "Climatización en todas las habitaciones",
+            "categoria": "Habitaciones",
+            "estado": "Activo"
+        },
+        {
+            "icono": "tv",
+            "nombre": "TV Cable",
+            "descripcion": "Canales de cable en todas las habitaciones",
+            "categoria": "Entretenimiento",
+            "estado": "Activo"
+        }
+    ],
+    "proveedores": [
+        {
+            "id": "tecnologia",
+            "categoria": "Tecnología",
+            "calificacion": 5,
+            "email": "ana.torres@email.com",
+            "telefono": "+51 987 654 320",
+            "direccion": "Av. Para, Bolivia",
+            "total_estadias": "1/1",
+            "historial": [
+                {
+                    "fecha": "2026-05-01",
+                    "servicio": "WiFi Gratis",
+                    "habitacion": "Todo el hotel",
+                    "estado": "Completado",
+                    "observacion": "Revisión general de red y routers principales."
+                }
+            ]
+        },
+        {
+            "id": "estacionamiento",
+            "categoria": "Estacionamiento",
+            "calificacion": 5,
+            "email": "ana.torres@email.com",
+            "telefono": "+51 987 654 321",
+            "direccion": "Av. Para, Bolivia",
+            "total_estadias": "1/1",
+            "historial": [
+                {
+                    "fecha": "2026-05-03",
+                    "servicio": "Cochera Privada",
+                    "habitacion": "Área externa",
+                    "estado": "Completado",
+                    "observacion": "Control de capacidad y señalización de espacios."
+                }
+            ]
+        },
+        {
+            "id": "alimentacion",
+            "categoria": "Alimentación",
+            "calificacion": 5,
+            "email": "ana.torres@email.com",
+            "telefono": "+51 987 654 322",
+            "direccion": "Av. Para, Bolivia",
+            "total_estadias": "2/2",
+            "historial": [
+                {
+                    "fecha": "2026-05-05",
+                    "servicio": "Desayuno Buffet",
+                    "habitacion": "Restaurante",
+                    "estado": "Completado",
+                    "observacion": "Reposición completa de insumos para desayuno."
+                },
+                {
+                    "fecha": "2026-05-09",
+                    "servicio": "Restaurante",
+                    "habitacion": "Bar",
+                    "estado": "Completado",
+                    "observacion": "Atención especial para huéspedes con reserva grupal."
+                }
+            ]
+        },
+        {
+            "id": "habitaciones",
+            "categoria": "Habitaciones",
+            "calificacion": 5,
+            "email": "ana.torres@email.com",
+            "telefono": "+51 987 654 323",
+            "direccion": "Av. Para, Bolivia",
+            "total_estadias": "2/2",
+            "historial": [
+                {
+                    "fecha": "2026-05-10",
+                    "servicio": "Suite Hidromasaje",
+                    "habitacion": "Suite 301",
+                    "estado": "Completado",
+                    "observacion": "Mantenimiento preventivo de hidromasaje."
+                },
+                {
+                    "fecha": "2026-05-12",
+                    "servicio": "Aire Acondicionado",
+                    "habitacion": "Hab. 205",
+                    "estado": "Pendiente",
+                    "observacion": "Programar revisión del filtro y control remoto."
+                }
+            ]
+        }
+    ]
+}
